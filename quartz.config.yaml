@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Apocai.github.io/ZeroContinuum
+  baseUrl: apocai.github.io/ZeroContinuum
   ignorePatterns:
     - private
     - templates
@@ -87,6 +87,8 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      prettyLinks: true
+      lazyLoad: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
