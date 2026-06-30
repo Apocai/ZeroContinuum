@@ -76,7 +76,9 @@ plugins:
     order: 30
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
-    order: 40
+    options:
+      wikilinks: true
+    order: 30
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
@@ -87,9 +89,7 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
-      prettyLinks: false 
-      disableBrokenWikilinks: true
-    order: 60
+    order: 40
   - source: github:quartz-community/description
     enabled: true
     order: 70
@@ -136,7 +136,7 @@ plugins:
   - source: github:quartz-community/alias-redirects
     enabled: true
     options:
-      prettyLinks: false
+      enableCaseRedirects: true # <-- Force automatic case redirect maps
   - source: github:quartz-community/content-index
     enabled: true
     options:
