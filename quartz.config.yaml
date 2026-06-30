@@ -87,7 +87,8 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
-      prettyLinks: false  # <-- Add this line here
+      prettyLinks: false 
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
@@ -134,6 +135,8 @@ plugins:
       display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
+    options:
+      prettyLinks: false
   - source: github:quartz-community/content-index
     enabled: true
     options:
