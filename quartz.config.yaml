@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: spiffy-lebkuchen-d99591.netlify.app
+  baseUrl: Apocai.github.io/ZeroContinuum
   ignorePatterns:
     - private
     - templates
