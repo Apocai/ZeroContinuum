@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: spiffy-lebkuchen-d99591.netlify.app
   ignorePatterns:
     - private
     - templates
