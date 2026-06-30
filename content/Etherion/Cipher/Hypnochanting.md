@@ -1,0 +1,1 @@
+Through severe training, Lynxes are drilled into their head a special language that, when repeated, puts their mind in an ultra-concentrative state where they can easily visualize and maintain the blueprints needed to cast [[Cipher|Ciphers]]. 

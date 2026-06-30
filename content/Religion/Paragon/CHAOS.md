@@ -1,0 +1,1 @@
+CHAOS is a [[Paragon]] and the ruler of Lost Paradise, which comes after [[Creation]]. It is the equal and opposite of [[ORDER]]. Nothing else can, or should be known.

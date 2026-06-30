@@ -1,0 +1,1 @@
+Paragons refers to [[ORDER]] and [[CHAOS]]. As they are beings above all else and are largely covered in mystery, they have no true classification or description beyond this.

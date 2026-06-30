@@ -1,0 +1,1 @@
+Sentinels are among the most elite of the forces of the [[Umbral Chasm]]. They have been trained directly by the First [[Demon Kings]] [[Daemonium Theana]] as [[Acolytes]], and have since then joined the ranks of the other Demon Kings. 

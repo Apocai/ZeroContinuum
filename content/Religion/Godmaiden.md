@@ -1,0 +1,7 @@
+Godmaidens are a term given to [[Ais]] women (or on rare occasion, even Lesser Realm women), who have the capability to successfully be impregnated and give birth to a [[Gods|God's]] child. 
+
+As of yet, there is no way to train or create such a women; they are born normally, and spend their first few years as a normal girl. However, around puberty, those with the talent are quickly revealed. Upon identification, they henceforth are handed over to their Aiasin nobility, where they will receive education and practice to prep them for their task: give birth to a God's child.
+
+The education stresses how sexual intercourse must only be used for the express purpose of mating with a God. This, along with withholding any information on other forms of sex, are to ensure a Godmaiden remains a virgin. Their virginity is important, as a Godmaiden can typically on birth one child in their lifetime; to squander it would be unimaginably devastating to the Aiasin. 
+
+Of course, after the task it done, they are free to do so as they please. However, giving birth to a divine child takes almost all their energy and lifeforce, leaving them to be frail, weak and unable to enjoy such things. The only exception to this is [[Daemonium Theana]], though according to her, it is because such weakness is beneath her. 
