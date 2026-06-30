@@ -1,0 +1,3 @@
+A title used to refer to the partner of the [[Titan]] of the [[Ascendancy of Duske]]. The consort takes on the name  [[Audaunis|Audaunis]], and gain status and privilege. They are able to act with the Titan's authority, though only with their explicit permission or incapacitation. 
+
+Lorde Consorts, despite their name, are not offered a position on the [[High Court]], and are less in status than the Titan. 

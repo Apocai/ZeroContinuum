@@ -1,0 +1,5 @@
+Avatars are beings chosen by the [[World Factor#^c703b2|Wul-Ral]] to protect the world and destroy a threat. They must meet certain criteria and strength, determined by the Wul-Ral, before being chosen.
+
+Once a potential Avatar accepts the power, their very core changes, transforming into a manifestation of the very world's will. They become a being of pure Etherion, powered endlessly by the world, and given whatever is needed to annihilate the threat. The strength of the Avatar is determined by the [[World Factor]] of the world. 
+
+Avatars do not go back to normal once their duty is fulfilled, but instead are sent into the World Factor where their true body lies waiting until they are summoned once more. That isn't stay they are imprisoned, as they are still able to send fragments of themselves into the world as spirits. Still, their souls are integrated into the World Factor, a copy of their soul returns to the [[Gwinvarga]], removing Avatars from the system and making them deathless.

@@ -1,0 +1,3 @@
+Echofiends are a type of powerful [[Undead|undead]]. They are semi-corporeal entities, whose corpse have become twisted in such away that the [[Gwinvarga]] registers them as alive, thereby binding the soul to the new corpse. 
+
+Echofiends are manifestations that embody war, battle, and slaughter. They live to embody their former selves lust for blood, and attack on sight. Note that they are not mindless, but possess the fighting skills they had while alive.    
