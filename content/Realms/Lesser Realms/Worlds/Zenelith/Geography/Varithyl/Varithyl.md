@@ -1,3 +1,0 @@
-Varithyl is a continent lying northwest of [[Nurauc]]. Much of the continent remains unexplored, covered by the vast [[Andanaht Mannes]]. The only known nation there is the [[Ascendancy of Duske]], which is located at the southeastern-most tip of continent. It is blockaded off from the Andanaht by the [[Taryld Duske]] mountain range. 
-
-Even before exploration took place into the continent, it was warned to be an impossible journey due to the surrounding [[Dark Ocean]], a harrowing sea beset by constant [[Pulse Storm]]

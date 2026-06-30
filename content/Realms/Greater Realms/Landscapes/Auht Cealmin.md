@@ -1,3 +1,0 @@
-While the [[Realms/Greater Realms/Greater Realms]] are infinite, there are regions, immense regions, that have and will remain unexplored. The greatest of these is the Auht Cealmin, and it is a place of death.
-
-It is believed to encircle the known regions of the Greater Realms, and in fact covers the majority of it. Of course, this is unproven as no soul is willing to venture out to such a place. The land itself is beautiful: with flat land covered in lush golden grass amidst an eternal blue sky. But it is inhabited by the [[Great Hermits]], and it is for that reason alone that even seeing the Auht Cealmin dooms oneself. 

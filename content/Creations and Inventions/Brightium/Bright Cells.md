@@ -1,3 +1,0 @@
- Liquid Bright, when experiencing high temperature fluctuations, becomes extremely unstable, able to combust with the slightest difference in pressure. Using this, Bright Cells were developed: battery-adjacent devices that store liquid Bright within them. Using a heated outer layer, and a cooling inner core, mechanism and valves are used to bring the Bright to an unstable state, and maintain it with little danger. When energy is needed, a valve is released and immediately closed, releasing an immense burst of heat.
-
-They come in many forms, including smaller finger-sized ones for household contraptions to larger ones for heating, powering vehicles, etc. 

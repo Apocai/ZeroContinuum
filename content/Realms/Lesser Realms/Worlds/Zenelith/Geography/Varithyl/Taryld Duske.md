@@ -1,1 +1,0 @@
-The Taryld Duske is a large mountain range in [[Varithyl]] that shield the [[Ascendancy of Duske]] from the bordering [[Andanaht Mannes]]. 

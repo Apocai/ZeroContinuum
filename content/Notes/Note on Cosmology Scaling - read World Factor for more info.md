@@ -1,9 +1,0 @@
-Both the [[Lesser Realms]] and [[Realms/Greater Realms/Greater Realms]] are almost impossible to physically destroy. Sure, something like crushing a rock with a grinder may be easy in both realms, both the underlying "lands" will physically withstand most things. This leaves pure science behind and enters the conceptual, metaphysical side. Most [[World Factor|worlds]] possess no concept of "death" upon reaching World Factor 1. 
-
-All of this is due to the [[World Factor#^c703b2|Wul-Ral]], or the Lesser Will of the World. The Lesser Realm represents the self-preservation instinct of the world, and protects the world through its many defenses and counters. Upon reaching World Factor 3 or higher, where [[Etharii]]  and [[Akashraal|Akashraal]] begin developing, the world effectively becomes a closed-off system, where very few outside forces can harm it, including asteroids, stars, etc. If something does pass through its defenses, there are additional measures the Wul-Ral creates to deal with any threats, including (in high WF worlds), [[Endbeast|Endbeasts]], the creation of [[Avatar of the Lesser Will|Avatars]], etc.
-
-This applies on a larger scale as well, like galaxies or galaxy clusters. It is not mentioned in other parts, but when you have so many Etherion-dense objects like worlds, suns, even black holes (though that's a bit different), Etherion starts condensing in the space between all of them, and is drawn towards, you guessed it, the supermassive black hole that the entire galaxy orbits around. Effectively, this becomes the World Factor for the galaxy, making it "closed off". There are no WF levels for a galaxy, as with the billions upon billions of worlds and stars, it starts to even out to a single level. 
-
-
-TLDR: Basically, worlds with high WF and galaxies are very hard destroy due to Etherion density. Of course, this only makes things like the [[Abominations]], who could destroy such galaxies, that much more frightening.  
-

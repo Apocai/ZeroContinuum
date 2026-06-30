@@ -1,3 +1,0 @@
-Domains are the territories of the [[Gods]] and are inhabited by the respective God's [[Aiasin]]. A Domain, more than simply being a piece of land, is thoroughly (for better or worse) warped by the God's inhabitance, making it more favorable for their owner and subjects, and less favorable for outsiders. 
-
-A Domain exists in tandem with its divine owner, and thus increases or decreases in size based on their God's stabilization - that is, how far their influence spreads. Gods that are well-known, worshipped (or feared), or form many [[Chain|Chains]] are more stable, and have large Domains. On the other hand, unknown, forgotten Gods have very small Domains. 

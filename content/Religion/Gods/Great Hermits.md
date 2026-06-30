@@ -1,3 +1,0 @@
-The Great Hermits were [[Gods]] that have become forgotten, yet were too strong in will and power to accept such a fate. Upon being forgotten, they inexplicably travel to the endless [[Auht Cealmin]], where they roam the fields eternally. 
-
-They are malevolent beings who will kill and eat all that they see, including other Hermits. They exist for no purpose, and are seemingly mindless. They have no need to eat, but eat regardless, perhaps as yet another form of vengeance for those that forgot. They are the reason that the Auht Cealmin is so dangerous.

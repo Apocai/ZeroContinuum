@@ -1,1 +1,0 @@
-Manah is a term for non-panhuman sapient beings.
